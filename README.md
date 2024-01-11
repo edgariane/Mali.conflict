@@ -29,31 +29,34 @@
             <p>Diese Ursachen sind eng miteinander verbunden und tragen gemeinsam zur Komplexität des Mali-Konflikts bei.</p>
         </section>
 <section id="verlauf">
-        <h2>Verlauf des Mali-Konflikts</h2>
-     <div class="content">
-        <p>Der Mali-Konflikt ist ein komplexes politisches und soziales Problem, das sich über mehrere Jahre erstreckt. Hier ist eine grobe Übersicht über den Verlauf&nbsp;</p>
-         <h3>1. Historischer Hintergrund</h3>
+    <h2>Verlauf des Mali-Konflikts</h2>
+    <div class="content">
+        <p>Der Mali-Konflikt ist ein komplexes politisches und soziales Problem, das sich über mehrere Jahre erstreckt. Hier ist eine grobe Übersicht über den Verlauf:</p>
+
+<h3>1. Historischer Hintergrund</h3>
         <p>Der Konflikt hat seine Wurzeln in langjährigen Spannungen zwischen verschiedenen ethnischen Gruppen, wirtschaftlichen Problemen und politischer Instabilität in Mali.</p>
-        <h3>6. Aktuelle Situation</h3>
+        <!-- Weitere Abschnitte hier... -->
+
+<h3>6. Aktuelle Situation</h3>
         <p>Der Konflikt ist bis heute anhaltend, und die Lage bleibt komplex. Internationale Organisationen und Friedensmissionen sind weiterhin in Mali aktiv, um Stabilität und Sicherheit zu fördern.</p>
     </div>
     <div class="image-container">
-        <img src="Screenshot 2024-01-11 at 13-54-19 Mali_2021 - Mali_2021.pdf.png" alt="Mali-Konflikt" />
+        <img src="dein-bild.jpg" alt="Mali-Konflikt" />
     </div>
 </section>
-        
+
 <style>
     #verlauf {
         display: flex;
-        justify-content: space-right;
+        justify-content: space-between;
     }
 
     .content {
-        flex: 5;
+        flex: 1;
     }
 
     .image-container {
-        max-width: 200px;
+        max-width: 300px; /* Passe die Breite nach Bedarf an */
     }
 
     .image-container img {
@@ -62,10 +65,11 @@
         float: right;
     }
 
-    .content h2 {
-        clear: both; 
+    .content h3 {
+        clear: both; /* Erzwingt, dass der Text unter der Überschrift erscheint */
     }
 </style>
+
 <section>
         <section id="auswirkungen">
             <h2>Auswirkungen</h2>
