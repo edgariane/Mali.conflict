@@ -63,7 +63,7 @@
         float: right;
     }
 </style>
-</section>
+<section>
         <section id="auswirkungen">
             <h2>Auswirkungen</h2>
             <p>Beschreibe die Auswirkungen des Konflikts auf die Bevölkerung, die Region und die Welt.</p>
