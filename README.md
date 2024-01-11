@@ -18,8 +18,17 @@
     <p>Internationale Bemühungen, einschließlich Interventionen der Vereinten Nationen und regionaler Partner, wurden unternommen, um Frieden und Stabilität wiederherzustellen. Trotzdem bleibt die Situation komplex,            und der Konflikt hat weitreichende Auswirkungen auf die Menschen in Mali und die umliegenden Regionen.</p>
         </section>
         <section id="ursachen">
-            <h2>Ursachen</h2>
-            <p>Informiere über die Hauptursachen des Konflikts in Mali.</p>
+            <h2>Ursachen des Mali-Konflikts</h2>
+            <p>Der Konflikt in Mali hat verschiedene komplexe Ursachen, die oft auf politische, soziale und wirtschaftliche Faktoren zurückzuführen sind.</p>
+            <h3>1. Ethnische Spannungen</h3>
+            <p>Die ethnische Vielfalt in Mali hat zu Spannungen zwischen verschiedenen Gruppen geführt, insbesondere zwischen den Tuareg-Rebellen im Norden und der Zentralregierung.</p>
+            <h3>2. Politische Instabilität</h3>
+            <p>Mali hat in der Vergangenheit Perioden politischer Instabilität erlebt, einschließlich Putschversuchen und Regierungswechseln, die zur Schwächung der staatlichen Autorität beigetragen haben.</p>
+            <h3>3. Wirtschaftliche Probleme</h3>
+            <p>Die wirtschaftliche Ungleichheit und Armut in bestimmten Regionen haben Frustrationen ausgelöst und zur Radikalisierung geführt, insbesondere unter Jugendlichen, die nach besseren Lebensbedingungen                   streben.</p>
+            <h3>4. Terrorismus und Extremismus</h3>
+            <p>Die Präsenz terroristischer Gruppen, darunter Al-Qaida im Islamischen Maghreb (AQIM) und andere, hat zur Eskalation des Konflikts beigetragen, insbesondere im Norden Malis.</p>
+            <p>Diese Ursachen sind eng miteinander verbunden und tragen gemeinsam zur Komplexität des Mali-Konflikts bei.</p>
         </section>
         <section id="verlauf">
             <h2>Verlauf</h2>
