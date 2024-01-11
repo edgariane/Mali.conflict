@@ -50,7 +50,7 @@
     }
 
     .content {
-        flex: 10;
+        flex: 5;
     }
 
     .image-container {
