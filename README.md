@@ -28,15 +28,15 @@
             <p>Die Präsenz terroristischer Gruppen, darunter Al-Qaida im Islamischen Maghreb (AQIM) und andere, hat zur Eskalation des Konflikts beigetragen, insbesondere im Norden Malis.</p>
             <p>Diese Ursachen sind eng miteinander verbunden und tragen gemeinsam zur Komplexität des Mali-Konflikts bei.</p>
         </section>
-        <section id="verlauf">
-            h2>Verlauf des Mali-Konflikts</h2>
-    <div class="content">
-        <p>Der Mali-Konflikt ist ein komplexes politisches und soziales Problem, das sich über mehrere Jahre erstreckt. Hier ist eine grobe Übersicht über den Verlauf:</p>
+<section id="verlauf">
+        h2>Verlauf des Mali-Konflikts</h2>
+     <div class="content">
+        <p>Der Mali-Konflikt ist ein komplexes politisches und soziales Problem, das sich über mehrere Jahre erstreckt. Hier ist eine grobe Übersicht über den                    Verlauf:</p>
         <h3>1. Historischer Hintergrund</h3>
-        <p>Der Konflikt hat seine Wurzeln in langjährigen Spannungen zwischen verschiedenen ethnischen Gruppen, wirtschaftlichen Problemen und politischer Instabilität in Mali.</p>
+        <p>Der Konflikt hat seine Wurzeln in langjährigen Spannungen zwischen verschiedenen ethnischen Gruppen, wirtschaftlichen Problemen und politischer Instabilität           in Mali.</p>
         <!-- Weitere Abschnitte hier... -->
         <h3>6. Aktuelle Situation</h3>
-        <p>Der Konflikt ist bis heute anhaltend, und die Lage bleibt komplex. Internationale Organisationen und Friedensmissionen sind weiterhin in Mali aktiv, um Stabilität und Sicherheit zu fördern.</p>
+        <p>Der Konflikt ist bis heute anhaltend, und die Lage bleibt komplex. Internationale Organisationen und Friedensmissionen sind weiterhin in Mali aktiv, um                Stabilität und Sicherheit zu fördern.</p>
     </div>
     <div class="image-container">
         <img src="Screenshot 2024-01-11 at 13-54-19 Mali_2021 - Mali_2021.pdf.png" alt="Mali-Konflikt" />
