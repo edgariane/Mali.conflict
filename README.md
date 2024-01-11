@@ -1,93 +1,40 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mali Conflict</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-        }
-
-        header {
-            background-color: #4CAF50;
-            color: white;
-            text-align: center;
-            padding: 10px;
-        }
-
-        h1 {
-            margin-bottom: 0;
-        }
-
-        h2 {
-            color: #333;
-            margin-bottom: 10px;
-        }
-
-        p {
-            color: #666;
-        }
-
-        section {
-            margin-bottom: 20px;
-        }
-
-        section:last-child {
-            margin-bottom: 0;
-        }
-
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-
-        li {
-            padding: 10px;
-            background-color: #f4f4f4;
-            margin-bottom: 5px;
-        }
-
-        footer {
-            text-align: center;
-            color: #999;
-            padding: 10px;
-            background-color: #f9f9f9;
-        }
-    </style>
-</head>
+<html lang="de"></head>
 <body>
     <header>
-        <h1>Mali Conflict</h1>
+        <h1>Mali Konflikt</h1>
     </header>
-
-    <section>
-        <h2>Background</h2>
-        <p>The Mali conflict began in 2012 and has resulted in widespread displacement, civilian casualties, and significant destruction of property.</p>
-    </section>
-
-    <section>
-        <h2>Causes</h2>
-        <ul>
-            <li>Tuareg separatist movement</li>
-            <li>Interference by external powers</li>
-            <li>Insecurity in the Sahel region</li>
-        </ul>
-    </section>
-
-    <section>
-        <h2>Timeline</h2>
-        <ul>
-            <li>January 2013: Government takes control of North</li>
-            <li>March 2013: Northern Mali conflict spills over into Algeria</li>
-            <li>January 2015: Al-Qaeda in the Islamic Maghreb (AQIM) pledges allegiance to ISIS</li>
-            <li>2015-2016: French-led intervention</li>
-        </ul>
-    </section>
-
+    <nav>
+        <a href="#einführung">Einführung</a>
+        <a href="#ursachen">Ursachen</a>
+        <a href="#verlauf">Verlauf</a>
+        <a href="#auswirkungen">Auswirkungen</a>
+        <a href="#quellen">Quellen</a>
+    </nav>
+    <main>
+        <section id="einführung">
+            <h2>Einführung</h2>
+            <p>Hier kannst du eine kurze Einführung zum Mali-Konflikt geben.</p>
+        </section>
+        <section id="ursachen">
+            <h2>Ursachen</h2>
+            <p>Informiere über die Hauptursachen des Konflikts in Mali.</p>
+        </section>
+        <section id="verlauf">
+            <h2>Verlauf</h2>
+            <p>Gib einen Überblick über den Verlauf des Konflikts und wichtige Ereignisse.</p>
+        </section>
+        <section id="auswirkungen">
+            <h2>Auswirkungen</h2>
+            <p>Beschreibe die Auswirkungen des Konflikts auf die Bevölkerung, die Region und die Welt.</p>
+        </section>
+        <section id="quellen">
+            <h2>Quellen</h2>
+            <p>Verweise hier auf deine Quellen und weiterführende Informationen.</p>
+        </section>
+    </main>
     <footer>
-        &copy; 2022 Mali Conflict Info Website. All rights reserved.
+        <p>&copy; 2024 Mali Konflikt Info</p>
     </footer>
 </body>
 </html>
