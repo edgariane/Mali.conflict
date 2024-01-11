@@ -1,5 +1,4 @@
 <html>
-<h1>Mali Konflikt</h1>
 <body>
     <h2>Inhalt:</h2>
     <nav>
