@@ -62,6 +62,10 @@
         height: auto;
         float: right;
     }
+
+    .content h3 {
+        clear: both; 
+    }
 </style>
 <section>
         <section id="auswirkungen">
