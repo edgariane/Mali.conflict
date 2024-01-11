@@ -53,22 +53,18 @@
 
     .content {
         flex: 1;
+        margin-right: 20px; /* Abstand zwischen Text und Bild */
     }
 
     .image-container {
-        max-width: 200px; 
+        max-width: 300px; /* Passe die Breite nach Bedarf an */
+    }
 
     .image-container img {
         width: 100%;
         height: auto;
-        float: right;
-    }
-
-    .content h3 {
-        clear: both; 
     }
 </style>
-
 <section>
         <section id="auswirkungen">
             <h2>Auswirkungen</h2>
