@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="de"></head>
+<html>
 <body>
     <header>
         <h1>Mali Konflikt</h1>
