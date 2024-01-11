@@ -29,7 +29,7 @@
             <p>Diese Ursachen sind eng miteinander verbunden und tragen gemeinsam zur Komplexität des Mali-Konflikts bei.</p>
         </section>
 <section id="verlauf">
-        h2>Verlauf des Mali-Konflikts</h2>
+        <h2>Verlauf des Mali-Konflikts</h2>
      <div class="content">
         <p>Der Mali-Konflikt ist ein komplexes politisches und soziales Problem, das sich über mehrere Jahre erstreckt. Hier ist eine grobe Übersicht über den                    Verlauf:</p>
         <h3>1. Historischer Hintergrund</h3>
@@ -46,7 +46,7 @@
 <style>
     #verlauf {
         display: flex;
-        justify-content: space-between;
+        justify-content: space-right;
     }
 
     .content {
