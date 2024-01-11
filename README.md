@@ -42,7 +42,7 @@
         <img src="Screenshot 2024-01-11 at 13-54-19 Mali_2021 - Mali_2021.pdf.png" alt="Mali-Konflikt" />
     </div>
 </section>
-
+        
 <style>
     #verlauf {
         display: flex;
@@ -54,7 +54,7 @@
     }
 
     .image-container {
-        max-width: 300px; /* Passe die Breite nach Bedarf an */
+        max-width: 200px;
     }
 
     .image-container img {
