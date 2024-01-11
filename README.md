@@ -5,10 +5,10 @@
         <h1>Mali Konflikt</h1>
     </header>
     <nav>
-        <a href="#einführung">Einführung</a>
-        <a href="#ursachen">Ursachen</a>
-        <a href="#verlauf">Verlauf</a>
-        <a href="#auswirkungen">Auswirkungen</a>
+        <a href="#einführung">Einführung</a> <br>
+        <a href="#ursachen">Ursachen</a> <br>
+        <a href="#verlauf">Verlauf</a> <br>
+        <a href="#auswirkungen">Auswirkungen</a> <br>
         <a href="#quellen">Quellen</a>
     </nav>
     <main>
