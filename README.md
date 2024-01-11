@@ -1,6 +1,6 @@
 <html>
+<h1>Mali Konflikt</h1>
 <body>
-        <h1>Mali Konflikt</h1>
     <nav>
         <a href="#einführung">Einführung</a> <br>
         <a href="#ursachen">Ursachen</a> <br>
