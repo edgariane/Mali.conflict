@@ -30,7 +30,7 @@
         </section>
 <section id="verlauf">
         <h2>Verlauf des Mali-Konflikts</h2>
-     <div> class="content">
+     <div class="content">
         <p>Der Mali-Konflikt ist ein komplexes politisches und soziales Problem, das sich über mehrere Jahre erstreckt. Hier ist eine grobe Übersicht über den Verlauf&nbsp;</p>
          <h3>1. Historischer Hintergrund</h3>
         <p>Der Konflikt hat seine Wurzeln in langjährigen Spannungen zwischen verschiedenen ethnischen Gruppen, wirtschaftlichen Problemen und politischer Instabilität in Mali.</p>
@@ -38,19 +38,19 @@
         <h3>6. Aktuelle Situation</h3>
         <p>Der Konflikt ist bis heute anhaltend, und die Lage bleibt komplex. Internationale Organisationen und Friedensmissionen sind weiterhin in Mali aktiv, um Stabilität und Sicherheit zu fördern.</p>
     </div>
-    <div> class="image-container">
+    <div class="image-container">
         <img src="Screenshot 2024-01-11 at 13-54-19 Mali_2021 - Mali_2021.pdf.png" alt="Mali-Konflikt" />
     </div>
 </section>
         
 <style>
     #verlauf {
-        display: flex;
+        display: none;
         justify-content: space-right;
     }
 
     .content {
-        flex: 1;
+        flex: 0;
     }
 
     .image-container {
