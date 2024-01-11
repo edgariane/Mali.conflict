@@ -45,12 +45,12 @@
         
 <style>
     #verlauf {
-        display: none;
+        display: flex;
         justify-content: space-right;
     }
 
     .content {
-        flex: 0;
+        flex: 10;
     }
 
     .image-container {
