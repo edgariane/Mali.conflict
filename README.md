@@ -29,9 +29,41 @@
             <p>Diese Ursachen sind eng miteinander verbunden und tragen gemeinsam zur Komplexität des Mali-Konflikts bei.</p>
         </section>
         <section id="verlauf">
-            <h2>Verlauf</h2>
-            <p>Gib einen Überblick über den Verlauf des Konflikts und wichtige Ereignisse.</p>
-        </section>
+            h2>Verlauf des Mali-Konflikts</h2>
+    <div class="content">
+        <p>Der Mali-Konflikt ist ein komplexes politisches und soziales Problem, das sich über mehrere Jahre erstreckt. Hier ist eine grobe Übersicht über den Verlauf:</p>
+        <h3>1. Historischer Hintergrund</h3>
+        <p>Der Konflikt hat seine Wurzeln in langjährigen Spannungen zwischen verschiedenen ethnischen Gruppen, wirtschaftlichen Problemen und politischer Instabilität in Mali.</p>
+        <!-- Weitere Abschnitte hier... -->
+        <h3>6. Aktuelle Situation</h3>
+        <p>Der Konflikt ist bis heute anhaltend, und die Lage bleibt komplex. Internationale Organisationen und Friedensmissionen sind weiterhin in Mali aktiv, um Stabilität und Sicherheit zu fördern.</p>
+    </div>
+    <div class="image-container">
+        <img src="dein-bild.jpg" alt="Mali-Konflikt" />
+    </div>
+</section>
+
+<style>
+    #verlauf {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .content {
+        flex: 1;
+    }
+
+    .image-container {
+        max-width: 300px; /* Passe die Breite nach Bedarf an */
+    }
+
+    .image-container img {
+        width: 100%;
+        height: auto;
+        float: right;
+    }
+</style>
+</section>
         <section id="auswirkungen">
             <h2>Auswirkungen</h2>
             <p>Beschreibe die Auswirkungen des Konflikts auf die Bevölkerung, die Region und die Welt.</p>
@@ -39,7 +71,7 @@
         <section id="quellen">
             <h2>Quellen</h2>
             <p>Verweise hier auf deine Quellen und weiterführende Informationen.</p>
-        </section>
+</section>
     </main>
     <footer>
         <p>&copy; 2024 Mali Konflikt Info</p>
