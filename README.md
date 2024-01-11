@@ -56,8 +56,7 @@
     }
 
     .image-container {
-        max-width: 300px; /* Passe die Breite nach Bedarf an */
-    }
+        max-width: 200px; 
 
     .image-container img {
         width: 100%;
@@ -66,7 +65,7 @@
     }
 
     .content h3 {
-        clear: both; /* Erzwingt, dass der Text unter der Überschrift erscheint */
+        clear: both; 
     }
 </style>
 
