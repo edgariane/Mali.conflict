@@ -77,6 +77,7 @@
     </main>
     <footer>
         <p>&copy; 2024 Mali Konflikt Info</p>
+        <a href="">Quellen</a>
     </footer>
 </body>
 </html>
