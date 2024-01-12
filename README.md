@@ -75,14 +75,6 @@
             <p>Verweise hier auf deine Quellen und weiterführende Informationen.</p>
 </section>
     <footer>
-        <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Page</title>
-</head>
-<body>
-<!-- Link zu deiner GitHub-Seite -->
-    <a href="https://github.com/edgariane/Mali.conflict/commit/e9b6ce25fbfa4e5236805183326f266c44b4267c" target="_blank">Quellen</a>
-</body>
+        <a href="https://">Quellen</a>
         <p>&copy; 2024 Mali Konflikt Info</p>
     </footer>
