@@ -49,7 +49,7 @@
     "#verlauf"
          #verlauf {
         display: flex;
-        justify-content: space-between;
+        justify-content: space-right;
     }
 
     .content {
