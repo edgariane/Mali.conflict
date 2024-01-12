@@ -75,6 +75,6 @@
             <p>Verweise hier auf deine Quellen und weiterführende Informationen.</p>
 </section>
     <footer>
-        <a href="https://github.com/edgariane/Mali.conflict/commit/88939ba81571d5da79b4774dce1702b464a1ac4c">Quellen</a>
+        <a href="LOL.md">Quellen</a>
         <p>&copy; 2024 Mali Konflikt Info</p>
     </footer>
