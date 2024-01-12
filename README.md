@@ -47,14 +47,13 @@
 
 <style>
     "#verlauf"
-        #velauf{
+         #verlauf {
         display: flex;
-        flex-wrap: wrap;
+        justify-content: space-between;
     }
 
     .content {
         flex: 1;
-        margin-right: 20px; /* Abstand zwischen Text und Bild */
     }
 
     .image-container {
@@ -64,6 +63,7 @@
     .image-container img {
         width: 100%;
         height: auto;
+        float: right;
     }
 </style>
 <section>
