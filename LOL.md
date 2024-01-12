@@ -9,7 +9,7 @@
 <body>
  <div class="loader">Loading...</div>
  <div class="content">
-    <!-- Fügen Sie hier den Inhalt ein, der nach dem Laden angezeigt werden soll -->
+   <a href="https://">
  </div>
     <style>
         body {
