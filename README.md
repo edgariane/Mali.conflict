@@ -75,6 +75,14 @@
             <p>Verweise hier auf deine Quellen und weiterführende Informationen.</p>
 </section>
     <footer>
-        <a href="LOL.md">Quellen</a>
+        <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Page</title>
+</head>
+<body>
+<!-- Link zu deiner GitHub-Seite -->
+    <a href="https://github.com/BENUTZERNAME/REPOSITORY" target="_blank">Quellen</a>
+</body>
         <p>&copy; 2024 Mali Konflikt Info</p>
     </footer>
