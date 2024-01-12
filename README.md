@@ -74,10 +74,7 @@
             <h2>Quellen</h2>
             <p>Verweise hier auf deine Quellen und weiterführende Informationen.</p>
 </section>
-    </main>
     <footer>
         <p>&copy; 2024 Mali Konflikt Info</p>
         <a href="Rick Astley - Never Gonna Give You Up (Official Music Video).mp4">Quellen</a>
     </footer>
-</body>
-</html>
