@@ -46,7 +46,8 @@
 </section>
 
 <style>
-    "#verlauf" {
+    "#verlauf"
+    #verlauf {
         display: flex;
         flex-wrap: wrap;
     }
