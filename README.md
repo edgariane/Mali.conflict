@@ -72,7 +72,6 @@
         </section>
         <section id="quellen">
             <h2>Quellen</h2>
-            <p>Verweise hier auf deine Quellen und weiterführende Informationen.</p>
 </section>
     <footer>
         <a href="Rick Astley - Never Gonna Give You Up (Official Music Video).mp4">Quellen</a>
