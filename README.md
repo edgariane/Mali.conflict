@@ -47,14 +47,14 @@
 
 <style>
     "#verlauf"
-    #verlauf {
+        #velauf{
         display: flex;
         flex-wrap: wrap;
     }
 
     .content {
         flex: 1;
-        margin-right: 500px; /* Abstand zwischen Text und Bild */
+        margin-right: 20px; /* Abstand zwischen Text und Bild */
     }
 
     .image-container {
