@@ -1,5 +1,5 @@
 <html>
-    <head>
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Popup-Fenster</title>
@@ -27,6 +27,14 @@
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Schwarzer Schatten */
             text-align: center;
         }
+        .popup a {
+            color: #1E90FF; /* Blau */
+            text-decoration: underline;
+            cursor: pointer;
+        }
+        .popup a:hover {
+            color: #000; /* Schwarz */
+        }
         .popup button {
             margin: 10px;
             padding: 8px 15px;
@@ -40,8 +48,7 @@
             color: #fff; /* Weiß */
         }
         .popup #cancelButton {
-            background-color: #000; /* Schwarz */
-            color: #fff; /* Weiß */
+            background-color: #ccc; /* Grau */
         }
     </style>
 </head>
@@ -49,7 +56,7 @@
 
 <div class="overlay" id="popupOverlay">
     <div class="popup">
-        <p>Mit dem Klick auf "OK" akzeptieren Sie unsere <a href="#nutzungsbedingungen" target="_blank">Nutzungsbedingungen</a> und <a href="#richtlinien"target="_blank">Richtlinien</a>.</p>
+        <p>Mit dem Klick auf "<a href="nutzungsbedingungen.html" target="_blank">OK</a>" akzeptieren Sie unsere <a href="nutzungsbedingungen.html" target="_blank">Nutzungsbedingungen</a> und <a href="richtlinien.html" target="_blank">Richtlinien</a>.</p>
         <button id="okButton" onclick="closePopup()">OK</button>
         <button id="cancelButton" onclick="closePage()">Abbrechen</button>
     </div>
@@ -73,6 +80,7 @@
     // Öffne das Popup beim Laden der Seite (kann in der Praxis störend sein)
     window.onload = openPopup;
 </script>
+
 </body>
 <body>
     <h2>Inhalt:</h2>
