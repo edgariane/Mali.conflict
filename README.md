@@ -1,5 +1,4 @@
 <html>
-<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Popup-Fenster</title>
@@ -44,8 +43,7 @@
             border-radius: 5px;
         }
         .popup #cancelButton {
-            background-color: #000; /* Schwarz */
-            color: #fff; /* Weiß */
+            background-color: #ccc; /* Grau */
         }
     </style>
 </head>
@@ -53,7 +51,7 @@
 
 <div class="overlay" id="popupOverlay">
     <div class="popup">
-        <p>Mit dem Klick auf "<a href="nutzungsbedingungen.html" target="_blank">Nutzungsbedingungen</a>" und "<a href="richtlinien.html" target="_blank">Richtlinien</a>" akzeptieren Sie diese.</p>
+        <p>Mit dem Klick auf "<a href="https://example.com/nutzungsbedingungen" target="_blank">Nutzungsbedingungen</a>" und "<a href="https://example.com/richtlinien" target="_blank">Richtlinien</a>" akzeptieren Sie diese.</p>
         <button id="cancelButton" onclick="closePage()">Abbrechen</button>
     </div>
 </div>
