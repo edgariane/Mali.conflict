@@ -91,7 +91,6 @@
         <div class="image-container">
     <a href="2012122895012952479_8.webp">
     <img src="2012122895012952479_8.webp" alt="AQMI">
-        </a>
         </div>
         <style>
     "#Infos der Feind-Freundkräfte"
