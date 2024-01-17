@@ -99,7 +99,17 @@
   <p>
     Die Präsenz von Mujao und anderer extremistischer Gruppen hat zu erheblicher Instabilität in Mali geführt und stellt eine Bedrohung für die Sicherheit in der gesamten Sahelzone dar. Internationale Bemühungen, insbesondere durch die Vereinten Nationen und regionale Akteure, zielen darauf ab, den Konflikt zu lösen und die Stabilität in der Region wiederherzustellen.
   </p>
-        </section>
+  <h2>Ansar Dine</h2>
+    <p>
+        Ansar Dine ist eine islamistische Gruppierung, die im Zusammenhang mit dem Mali-Konflikt steht. Die Organisation strebt die Einführung der Scharia in Mali an und hat Verbindungen zu anderen extremistischen Gruppen. Sie spielte eine Rolle in den Unruhen im Norden Malis und wird für zahlreiche Menschenrechtsverletzungen verantwortlich gemacht.
+    </p>
+    <p>
+        Ansar Dine wurde im Jahr 2012 gegründet und war an verschiedenen Konflikten in der Sahel-Region beteiligt. Die Gruppe hat eine ablehnende Haltung gegenüber westlichen Einflüssen und strebt die Errichtung eines islamischen Staates an.
+    </p>
+    <p>
+        Die internationale Gemeinschaft und regionale Kräfte haben sich aktiv bemüht, Ansar Dine und andere extremistische Gruppen in der Region zu bekämpfen, um Frieden und Stabilität wiederherzustellen.
+    </p>
+    </section>
         <section id="quellen">
             <h2>Quellen</h2>
 </section>
