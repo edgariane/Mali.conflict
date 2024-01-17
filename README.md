@@ -41,7 +41,9 @@
         <p>Der Konflikt ist bis heute anhaltend, und die Lage bleibt komplex. Internationale Organisationen und Friedensmissionen sind weiterhin in Mali aktiv, um Stabilität und Sicherheit zu fördern.</p>
     </div>
     <div class="image-container">
-        <img src="Screenshot 2024-01-11 at 13-54-19 Mali_2021 - Mali_2021.pdf.png" alt="Mali-Konflikt" />
+    <a href="https://www.example.com">
+    <img src="Screenshot 2024-01-11 at 13-54-19 Mali_2021 - Mali_2021.pdf.png" alt="Karte vom Malikonflikt">
+  </a>
     </div>
 </section>
 
