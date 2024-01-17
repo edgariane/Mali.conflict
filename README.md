@@ -52,7 +52,7 @@
 
 <div id="modal-container">
     <div id="modal-content">
-        <p>Hallo</p>
+        <p><a href="">Nutzungsbedingungen</a> </p>
         <button id="ok-button" onclick="closeModal()">OK</button>
     </div>
 </div>
@@ -79,7 +79,7 @@
     <h2>Inhalt:</h2>
     <nav>
         <a href="#einführung">Einführung</a> <br>
-        <a href="#ursachen">Ursachen</a> <br>
+        <a href="#ursachen">Ursachen</a> <b
         <a href="#verlauf">Verlauf</a> <br>
         <a href="#Infos der Feind-Freundkräfte">Infos der Feind-Freundkräfte</a> <br>
         <a href="#quellen">Quellen</a>
