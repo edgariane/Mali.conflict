@@ -52,7 +52,8 @@
 
 <div id="modal-container">
     <div id="modal-content">
-        <p><a href="">Nutzungsbedingungen</a> </p>
+        <p>Ich Akseptiere die <a href="">Nutzungsbedingungen</a>.</p>
+        <p>Und unsere<a href="">Richtlinien</a>.</p>
         <button id="ok-button" onclick="closeModal()">OK</button>
     </div>
 </div>
