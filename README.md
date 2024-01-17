@@ -5,7 +5,7 @@
         <a href="#einführung">Einführung</a> <br>
         <a href="#ursachen">Ursachen</a> <br>
         <a href="#verlauf">Verlauf</a> <br>
-        <a href="#auswirkungen">Auswirkungen</a> <br>
+        <a href="#Infos der Feind-Freundkräfte">Auswirkungen</a> <br>
         <a href="#quellen">Quellen</a>
     </nav>
     <main>
@@ -67,8 +67,8 @@
     }
 </style>
 <section>
-        <section id="auswirkungen">
-            <h2>Infos der Feind - Freundkräfte</h2>
+        <section id="Infos der Feind-Freundkräfte">
+            <h2>Infos der Feind-Freundkräfte</h2>
             <p>Beschreibe die Auswirkungen des Konflikts auf die Bevölkerung, die Region und die Welt.</p>
         </section>
         <section id="quellen">
