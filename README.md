@@ -49,7 +49,7 @@
 
 <div class="overlay" id="popupOverlay">
     <div class="popup">
-        <p>Ich habe die <a herf="">Nutzungsbedingungen</a> und <br> <a herf="">Richtlinien</a> gelesen und Akseptiere sie.</p>
+        <p>Ich habe die<a href="Nutzungsbedingungen">Nutzungsbedingungen</a> und <br> <a href="Richtlinien">Richtlinien</a> gelesen und Akseptiere sie.</p>
         <button id="okButton" onclick="closePopup()">OK</button>
         <button id="cancelButton" onclick="closePage()">Abbrechen</button>
     </div>
