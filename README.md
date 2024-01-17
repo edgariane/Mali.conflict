@@ -83,7 +83,7 @@
     <h2>Inhalt:</h2>
     <nav>
         <a href="#einführung">Einführung</a> <br>
-        <a href="#ursachen">Ursachen</a> <b
+        <a href="#ursachen">Ursachen</a> <br>
         <a href="#verlauf">Verlauf</a> <br>
         <a href="#Infos der Feind-Freundkräfte">Infos der Feind-Freundkräfte</a> <br>
         <a href="#quellen">Quellen</a>
@@ -193,6 +193,7 @@
     }
 </style>
             <h2>Mujao in Mali</h2>
+        <div class="content">
 
   <p>
     Die Bewegung für Einheit und Dschihad in Westafrika (Mujao) ist eine islamistische Gruppierung, die im Zusammenhang mit dem Mali-Konflikt steht. Sie entstand während der Tuareg-Rebellion in Nordmali und ist für ihre Verbindungen zu al-Qaida im Islamischen Maghreb (AQIM) bekannt.
@@ -205,6 +206,30 @@
   <p>
     Die Präsenz von Mujao und anderer extremistischer Gruppen hat zu erheblicher Instabilität in Mali geführt und stellt eine Bedrohung für die Sicherheit in der gesamten Sahelzone dar. Internationale Bemühungen, insbesondere durch die Vereinten Nationen und regionale Akteure, zielen darauf ab, den Konflikt zu lösen und die Stabilität in der Region wiederherzustellen.
   </p>
+  </div>
+  <div class="image-container">
+    <a href="mujao-mali_0.jpg">
+    <img src="mujao-mali_0.jpg" alt="MUJAO in Mali">
+    </a>
+        </div>
+        <style>
+    "#Infos der Feind-Freundkräfte"
+         #Infos der Feind-Freundkräfte {
+        display: flex;
+        justify-content: space-right;
+         }
+        .content {
+        flex: 1;
+    }
+        .image-container {
+        max-width: 300px; /* Passe die Breite nach Bedarf an */
+    }
+        .image-container img {
+        width: 100%;
+        height: auto;
+        float: right;
+    }
+</style>
   <h2>Ansar Dine</h2>
     <p>
         Ansar Dine ist eine islamistische Gruppierung, die im Zusammenhang mit dem Mali-Konflikt steht. Die Organisation strebt die Einführung der Scharia in Mali an und hat Verbindungen zu anderen extremistischen Gruppen. Sie spielte eine Rolle in den Unruhen im Norden Malis und wird für zahlreiche Menschenrechtsverletzungen verantwortlich gemacht.
