@@ -68,7 +68,7 @@
 </style>
 <section>
         <section id="auswirkungen">
-            <h2>Auswirkungen</h2>
+            <h2>Infos der Feind - Freundkräfte</h2>
             <p>Beschreibe die Auswirkungen des Konflikts auf die Bevölkerung, die Region und die Welt.</p>
         </section>
         <section id="quellen">
