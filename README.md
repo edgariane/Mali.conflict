@@ -40,7 +40,8 @@
             color: #fff; /* Weiß */
         }
         .popup #cancelButton {
-            background-color: #ccc; /* Grau */
+            background-color: #000; /* Schwarz */
+            color: #fff; /* Weiß */
         }
     </style>
 </head>
@@ -48,7 +49,7 @@
 
 <div class="overlay" id="popupOverlay">
     <div class="popup">
-        <p>Hallo</p>
+        <p>Wer das liest ist dumm</p>
         <button id="okButton" onclick="closePopup()">OK</button>
         <button id="cancelButton" onclick="closePage()">Abbrechen</button>
     </div>
