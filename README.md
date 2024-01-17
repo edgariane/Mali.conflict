@@ -44,7 +44,8 @@
             border-radius: 5px;
         }
         .popup #cancelButton {
-            background-color: #ccc; /* Grau */
+            background-color: #000; /* Schwarz */
+            color: #fff; /* Weiß */
         }
     </style>
 </head>
