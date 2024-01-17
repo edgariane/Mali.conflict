@@ -24,12 +24,12 @@
             animation: slideIn 0.5s ease-out;
         }
         #modal-content {
-            background-color: #1E90FF;
+            background-color: 1E90FF;
             padding: 20px;
             border-radius: 8px;
         }
         #ok-button {
-            background-color: #4CAF50;
+            background-color: 4CAF50;
             color: white;
             padding: 10px 20px;
             border: none;
