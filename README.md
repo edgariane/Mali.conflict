@@ -2,79 +2,76 @@
     <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Willkommensfenster</title>
+    <title>Popup-Fenster</title>
     <style>
         body {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            overflow: hidden;
         }
-        #modal-container {
+        .overlay {
             display: none;
             position: fixed;
-            bottom: 0;
+            top: 0;
             left: 0;
             width: 100%;
-            background-color: rgba(0, 0, 0, 0.7);
-            color: white;
+            height: 100%;
+            background-color: rgba(128, 128, 128, 0.5); /* Grau, durchsichtig */
+            justify-content: center;
+            align-items: center;
+        }
+        .popup {
+            background-color: #fff; /* Weiß */
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Schwarzer Schatten */
             text-align: center;
-            padding: 20px;
-            box-sizing: border-box;
-            animation: slideIn 0.5s ease-out;
         }
-        #modal-content {
-            background-color: 1E90FF;
-            padding: 20px;
-            border-radius: 8px;
-        }
-        #ok-button {
-            background-color: 4CAF50;
-            color: white;
-            padding: 10px 20px;
-            border: none;
-            border-radius: 4px;
-            cursor: pointer;
+        .popup button {
+            margin: 10px;
+            padding: 8px 15px;
             font-size: 16px;
-            margin-top: 10px;
+            cursor: pointer;
+            border: none;
+            border-radius: 5px;
         }
-        @keyframes slideIn {
-            from {
-                transform: translateY(100%);
-            }
-            to {
-                transform: translateY(0);
-            }
+        .popup #okButton {
+            background-color: #000; /* Schwarz */
+            color: #fff; /* Weiß */
+        }
+        .popup #cancelButton {
+            background-color: #ccc; /* Grau */
         }
     </style>
 </head>
 <body>
 
-<div id="modal-container">
-    <div id="modal-content">
-        <p>Ich Akseptiere die <a href="">Nutzungsbedingungen</a>.</p>
-        <p>Und unsere<a href="">Richtlinien</a>.</p>
-        <button id="ok-button" onclick="closeModal()">OK</button>
+<div class="overlay" id="popupOverlay">
+    <div class="popup">
+        <p>Hallo</p>
+        <button id="okButton" onclick="closePopup()">OK</button>
+        <button id="cancelButton" onclick="closePage()">Abbrechen</button>
     </div>
 </div>
 
 <script>
-    // Funktion zum Schließen des Modalfensters
-    function closeModal() {
-        var modalContainer = document.getElementById('modal-container');
-        modalContainer.style.animation = 'slideIn 0.5s ease-in';
-        setTimeout(function () {
-            modalContainer.style.display = 'none';
-        }, 500);
+    function openPopup() {
+        document.getElementById("popupOverlay").style.display = "flex";
     }
 
-    // Das Modalfenster wird beim Laden der Seite angezeigt
-    window.onload = function () {
-        var modalContainer = document.getElementById('modal-container');
-        modalContainer.style.display = 'block';
-    };
+    function closePopup() {
+        document.getElementById("popupOverlay").style.display = "none";
+    }
+
+    function closePage() {
+        window.close();
+    }
 </script>
 
+<script>
+    // Öffne das Popup beim Laden der Seite (kann in der Praxis störend sein)
+    window.onload = openPopup;
+</script>
 </body>
 <body>
     <h2>Inhalt:</h2>
