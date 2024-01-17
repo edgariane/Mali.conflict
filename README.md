@@ -71,7 +71,34 @@
 <section>
         <section id="Infos der Feind-Freundkräfte">
             <h2>Infos der Feind-Freundkräfte</h2>
-            <p>Beschreibe die Auswirkungen des Konflikts auf die Bevölkerung, die Region und die Welt.</p>
+            <h2>Al-Qaida im Islamischen Maghreb (AQMI)</h2>
+    <p>
+        Al-Qaida im Islamischen Maghreb (AQMI) ist eine islamistische extremistische Gruppierung,
+        die im nordafrikanischen Maghreb und Sahel-Gebiet aktiv ist. Sie entstand aus der algerischen
+        Gruppierung Groupe Salafiste pour la Prédication et le Combat (GSPC) und schwor 2007 Al-Qaida die Treue.
+    </p>
+    <p>
+        AQMI ist bekannt für ihre Aktivitäten wie Entführungen, Sprengstoffanschläge und den Schmuggel
+        von Waffen in der Region. Die Gruppe hat Verbindungen zu anderen Al-Qaida-Zweigen und spielt
+        eine bedeutende Rolle in der Instabilität in Mali und den umliegenden Gebieten.
+    </p>
+    <p>
+        Die internationale Gemeinschaft, darunter Frankreich und die Vereinten Nationen, hat Maßnahmen
+        ergriffen, um AQMI zu bekämpfen und die Sicherheit in der Region wiederherzustellen.
+    </p>
+            <h2>Mujao in Mali</h2>
+
+  <p>
+    Die Bewegung für Einheit und Dschihad in Westafrika (Mujao) ist eine islamistische Gruppierung, die im Zusammenhang mit dem Mali-Konflikt steht. Sie entstand während der Tuareg-Rebellion in Nordmali und ist für ihre Verbindungen zu al-Qaida im Islamischen Maghreb (AQIM) bekannt.
+  </p>
+
+  <p>
+    Mujao hat sich an verschiedenen terroristischen Aktivitäten beteiligt und versucht, die politische Landschaft in der Sahel-Region zu beeinflussen. Die Gruppe strebt die Errichtung eines islamischen Staates in der Region an und hat sich gegen ausländische Interventionen, insbesondere die von Frankreich angeführte Operation Serval, ausgesprochen.
+  </p>
+
+  <p>
+    Die Präsenz von Mujao und anderer extremistischer Gruppen hat zu erheblicher Instabilität in Mali geführt und stellt eine Bedrohung für die Sicherheit in der gesamten Sahelzone dar. Internationale Bemühungen, insbesondere durch die Vereinten Nationen und regionale Akteure, zielen darauf ab, den Konflikt zu lösen und die Stabilität in der Region wiederherzustellen.
+  </p>
         </section>
         <section id="quellen">
             <h2>Quellen</h2>
