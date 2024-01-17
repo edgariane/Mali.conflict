@@ -72,7 +72,6 @@
         <section id="Infos der Feind-Freundkräfte">
             <h2>Infos der Feind-Freundkräfte</h2>
             <h2>Al-Qaida im Islamischen Maghreb (AQMI)</h2>
-            <div class="content">
     <p>
         Al-Qaida im Islamischen Maghreb (AQMI) ist eine islamistische extremistische Gruppierung,
         die im nordafrikanischen Maghreb und Sahel-Gebiet aktiv ist. Sie entstand aus der algerischen
@@ -87,8 +86,6 @@
         Die internationale Gemeinschaft, darunter Frankreich und die Vereinten Nationen, hat Maßnahmen
         ergriffen, um AQMI zu bekämpfen und die Sicherheit in der Region wiederherzustellen.
     </p>
-        </div>
-            <div class="image-container">
     <a href="Screenshot 2024-01-11 at 13-54-19 Mali_2021 - Mali_2021.pdf.png">
     <img src="Screenshot 2024-01-11 at 13-54-19 Mali_2021 - Mali_2021.pdf.png" alt="Karte vom Malikonflikt">
   </a>
