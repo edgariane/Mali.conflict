@@ -86,8 +86,8 @@
         Die internationale Gemeinschaft, darunter Frankreich und die Vereinten Nationen, hat Maßnahmen
         ergriffen, um AQMI zu bekämpfen und die Sicherheit in der Region wiederherzustellen.
     </p>
-    <a href="Screenshot 2024-01-11 at 13-54-19 Mali_2021 - Mali_2021.pdf.png">
-    <img src="Screenshot 2024-01-11 at 13-54-19 Mali_2021 - Mali_2021.pdf.png" alt="Karte vom Malikonflikt">
+    <a href="2012122895012952479_8.webp">
+    <img src="2012122895012952479_8.webp" alt="AQMI">
   </a>
             <h2>Mujao in Mali</h2>
 
