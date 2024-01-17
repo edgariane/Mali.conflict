@@ -5,7 +5,7 @@
         <a href="#einführung">Einführung</a> <br>
         <a href="#ursachen">Ursachen</a> <br>
         <a href="#verlauf">Verlauf</a> <br>
-        <a href="#Infos der Feind-Freundkräfte">Auswirkungen</a> <br>
+        <a href="#Infos der Feind-Freundkräfte">Infos der Feind-Freundkräfte</a> <br>
         <a href="#quellen">Quellen</a>
     </nav>
     <main>
