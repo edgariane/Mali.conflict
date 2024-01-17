@@ -51,7 +51,7 @@
 
 <div class="overlay" id="popupOverlay">
     <div class="popup">
-        <p>Mit dem Klick auf "<a href="richtlinien.html" target="_blank">Nutzungsbedingungen</a>" und "<a href="https://example.com/richtlinien" target="_blank">Richtlinien</a>" akzeptieren Sie diese.</p>
+        <p>Mit dem Klick auf "<a href="richtlinien.html" target="_blank">Nutzungsbedingungen</a>" und "<a href="richtlinien.md" target="_blank">Richtlinien</a>" akzeptieren Sie diese.</p>
         <button id="cancelButton" onclick="closePage()">Abbrechen</button>
     </div>
 </div>
