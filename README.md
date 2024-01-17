@@ -43,10 +43,6 @@
             border: none;
             border-radius: 5px;
         }
-        .popup #okButton {
-            background-color: #000; /* Schwarz */
-            color: #fff; /* Weiß */
-        }
         .popup #cancelButton {
             background-color: #ccc; /* Grau */
         }
@@ -56,8 +52,7 @@
 
 <div class="overlay" id="popupOverlay">
     <div class="popup">
-        <p>Mit dem Klick auf "OK" akzeptieren Sie unsere <a href="nutzungsbedingungen.html" target="_blank">Nutzungsbedingungen</a></p><br><p>und <a href="richtlinien.html" target="_blank">Richtlinien</a>.</p>
-        <button id="okButton" onclick="closePopup()">OK</button>
+        <p>Mit dem Klick auf "<a href="nutzungsbedingungen.html" target="_blank">Nutzungsbedingungen</a>" und "<a href="richtlinien.html" target="_blank">Richtlinien</a>" akzeptieren Sie diese.</p>
         <button id="cancelButton" onclick="closePage()">Abbrechen</button>
     </div>
 </div>
@@ -65,10 +60,6 @@
 <script>
     function openPopup() {
         document.getElementById("popupOverlay").style.display = "flex";
-    }
-
-    function closePopup() {
-        document.getElementById("popupOverlay").style.display = "none";
     }
 
     function closePage() {
