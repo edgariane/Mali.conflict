@@ -1,4 +1,80 @@
 <html>
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Willkommensfenster</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+        #modal-container {
+            display: none;
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0.7);
+            color: white;
+            text-align: center;
+            padding: 20px;
+            box-sizing: border-box;
+            animation: slideIn 0.5s ease-out;
+        }
+        #modal-content {
+            background-color: #1E90FF;
+            padding: 20px;
+            border-radius: 8px;
+        }
+        #ok-button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            margin-top: 10px;
+        }
+        @keyframes slideIn {
+            from {
+                transform: translateY(100%);
+            }
+            to {
+                transform: translateY(0);
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div id="modal-container">
+    <div id="modal-content">
+        <p>Hallo</p>
+        <button id="ok-button" onclick="closeModal()">OK</button>
+    </div>
+</div>
+
+<script>
+    // Funktion zum Schließen des Modalfensters
+    function closeModal() {
+        var modalContainer = document.getElementById('modal-container');
+        modalContainer.style.animation = 'slideIn 0.5s ease-in';
+        setTimeout(function () {
+            modalContainer.style.display = 'none';
+        }, 500);
+    }
+
+    // Das Modalfenster wird beim Laden der Seite angezeigt
+    window.onload = function () {
+        var modalContainer = document.getElementById('modal-container');
+        modalContainer.style.display = 'block';
+    };
+</script>
+
+</body>
 <body>
     <h2>Inhalt:</h2>
     <nav>
