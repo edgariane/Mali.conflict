@@ -1,4 +1,5 @@
 <html>
+    <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Popup-Fenster</title>
@@ -42,8 +43,13 @@
             border: none;
             border-radius: 5px;
         }
+        .popup #okButton {
+            background-color: #000; /* Schwarz */
+            color: #fff; /* Weiß */
+        }
         .popup #cancelButton {
-            background-color: #ccc; /* Grau */
+            background-color: #000; /* Schwarz */
+            color: #fff; /* Weiß */
         }
     </style>
 </head>
@@ -51,7 +57,8 @@
 
 <div class="overlay" id="popupOverlay">
     <div class="popup">
-        <p>Mit dem Klick auf "<a href="richtlinien.html" target="_blank">Nutzungsbedingungen</a>" und "<a href="richtlinien.md" target="_blank">Richtlinien</a>" akzeptieren Sie diese.</p>
+        <p>Mit dem Klick auf "<a href="richtlinien.html" target="_blank">Nutzungsbedingungen</a>" und "<a href="richtlinien.html" target="_blank">Richtlinien</a>" akzeptieren Sie diese.</p>
+        <button id="okButton" onclick="closePopup()">OK</button>
         <button id="cancelButton" onclick="closePage()">Abbrechen</button>
     </div>
 </div>
@@ -59,6 +66,10 @@
 <script>
     function openPopup() {
         document.getElementById("popupOverlay").style.display = "flex";
+    }
+
+    function closePopup() {
+        document.getElementById("popupOverlay").style.display = "none";
     }
 
     function closePage() {
