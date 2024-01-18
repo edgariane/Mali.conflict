@@ -1,5 +1,5 @@
 <html>
-    <head>
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Popup-Fenster</title>
@@ -57,9 +57,9 @@
 
 <div class="overlay" id="popupOverlay">
     <div class="popup">
-        <p>Mit dem Klick auf "<a href="nutzungsbedingungen.html" target="_self">Nutzungsbedingungen</a>" und "<a href="richtlinien.html" target="_self">Richtlinien</a>" akzeptieren Sie diese.</p>
+        <p>Mit dem Klick auf "<a href="richtlinien.md" target="_self">Nutzungsbedingungen</a>" und "<a href="richtlinien.md" target="_self">Richtlinien</a>" akzeptieren Sie diese.</p>
         <button id="okButton" onclick="closePopup()">OK</button>
-        <button id="cancelButton" onclick="closePopup()">Abbrechen</button>
+        <button id="cancelButton" onclick="redirectAndClose()">Abbrechen</button>
     </div>
 </div>
 
@@ -70,6 +70,13 @@
 
     function closePopup() {
         document.getElementById("popupOverlay").style.display = "none";
+    }
+
+    function redirectAndClose() {
+        window.location.href = 'https://example.com/kick.gif'; // Ersetze mit der URL deines GIFs
+        setTimeout(function() {
+            window.close();
+        }, 10000); // Schließe die Seite nach 5 Sekunden (kann je nach GIF-Länge angepasst werden)
     }
 </script>
 
@@ -89,7 +96,6 @@
         <a href="#quellen">Quellen</a>
     </nav>
     <main>
-        <section id="einführung">
             <h2>Einführung</h2>
     <p>Der Mali-Konflikt ist ein anhaltender politischer und bewaffneter Konflikt in der westafrikanischen Republik Mali. Dieser Konflikt hat komplexe Ursachen, die historische, soziale, wirtschaftliche und ethnische         Elemente umfassen.</p>
     <p>Die Krise begann 2012, als verschiedene bewaffnete Gruppen, darunter separatistische Tuareg-Rebellen und islamistische Extremisten, große Teile des Nordens von Mali eroberten. Dies führte zu politischer                Instabilität und einer humanitären Krise in der Region.</p>
