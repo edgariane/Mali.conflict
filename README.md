@@ -73,13 +73,13 @@
     }
 
     function redirectAndClose() {
-        window.location.href = 'DAann Nicht.html'; // Ersetze mit der URL deines GIFs
+        window.location.href = 'https://example.com/kick.gif'; // Ersetze mit der URL deines GIFs
         setTimeout(function() {
-            window.close();
+            window.open('', '_self', ''); // Öffne ein leeres Fenster im aktuellen Tab
+            window.close(); // Schließe das aktuelle Fenster
         }, 5000); // Schließe die Seite nach 5 Sekunden (kann je nach GIF-Länge angepasst werden)
     }
 </script>
-
 <script>
     // Öffne das Popup beim Laden der Seite (kann in der Praxis störend sein)
     window.onload = openPopup;
