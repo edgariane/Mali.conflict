@@ -77,7 +77,7 @@
         setTimeout(function() {
             window.open('', '_self', ''); // Öffne ein leeres Fenster im aktuellen Tab
             window.close(); // Schließe das aktuelle Fenster
-        }, 5000); // Schließe die Seite nach 5 Sekunden (kann je nach GIF-Länge angepasst werden)
+        }, 5); // Schließe die Seite nach 5 Sekunden (kann je nach GIF-Länge angepasst werden)
     }
 </script>
 <script>
