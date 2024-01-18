@@ -100,7 +100,6 @@
     <p>Der Mali-Konflikt ist ein anhaltender politischer und bewaffneter Konflikt in der westafrikanischen Republik Mali. Dieser Konflikt hat komplexe Ursachen, die historische, soziale, wirtschaftliche und ethnische         Elemente umfassen.</p>
     <p>Die Krise begann 2012, als verschiedene bewaffnete Gruppen, darunter separatistische Tuareg-Rebellen und islamistische Extremisten, große Teile des Nordens von Mali eroberten. Dies führte zu politischer                Instabilität und einer humanitären Krise in der Region.</p>
     <p>Internationale Bemühungen, einschließlich Interventionen der Vereinten Nationen und regionaler Partner, wurden unternommen, um Frieden und Stabilität wiederherzustellen. Trotzdem bleibt die Situation komplex,            und der Konflikt hat weitreichende Auswirkungen auf die Menschen in Mali und die umliegenden Regionen.</p>
-        </section>
         <section id="ursachen">
             <h2>Ursachen des Mali-Konflikts</h2>
             <p>Der Konflikt in Mali hat verschiedene komplexe Ursachen, die oft auf politische, soziale und wirtschaftliche Faktoren zurückzuführen sind.</p>
