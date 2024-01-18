@@ -76,7 +76,7 @@
         window.location.href = 'DAann Nicht.html'; // Ersetze mit der URL deines GIFs
         setTimeout(function() {
             window.close();
-        }, 3000); // Schließe die Seite nach 5 Sekunden (kann je nach GIF-Länge angepasst werden)
+        }, 5000); // Schließe die Seite nach 5 Sekunden (kann je nach GIF-Länge angepasst werden)
     }
 </script>
 
