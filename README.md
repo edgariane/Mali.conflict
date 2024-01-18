@@ -73,7 +73,7 @@
     }
 
     function redirectAndClose() {
-        window.location.href = 'https://example.com/kick.gif'; // Ersetze mit der URL deines GIFs
+        window.location.href = 'DAann Nicht.html'; // Ersetze mit der URL deines GIFs
         setTimeout(function() {
             window.close();
         }, 10000); // Schließe die Seite nach 5 Sekunden (kann je nach GIF-Länge angepasst werden)
