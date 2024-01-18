@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="de">
-    <head>
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Fehler</title>
@@ -8,18 +8,30 @@
         body {
             font-family: Arial, sans-serif;
             text-align: center;
-            margin: 50px;
+            margin: 0;
+            padding: 0;
+            background-image: url('hintergrund.gif'); /* Ersetze 'hintergrund.gif' durch den tatsächlichen Dateinamen deines GIFs */
+            background-size: cover;
+            background-position: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
         }
         h1 {
             color: red; /* Rote Farbe für die Überschrift */
         }
+        p {
+            color: white; /* Weiße Farbe für den Text */
+        }
     </style>
 </head>
 <body>
-    
-    <h1>Fehler</h1>
-    <p>Es tut uns schrecklich leid, aber die Seite konnte nicht Geladen werden.<br>Versuchen sie es bitte erneut.</p>
-    
-</body>
 
+    <div>
+       <h1>Fehler</h1>
+    <p>Es tut uns schrecklich leid, aber die Seite konnte nicht Geladen werden.<br>Versuchen sie es bitte erneut.</p>
+    </div>
+
+</body>
 </html>
