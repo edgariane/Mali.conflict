@@ -253,4 +253,3 @@
         <a href="Rick Astley - Never Gonna Give You Up (Official Music Video).mp4">Quellen</a>
         <p>&copy; 2024 Mali Konflikt Info</p>
     </footer>
-    </html>
