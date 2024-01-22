@@ -81,7 +81,6 @@
     }
 </script>
 <script>
-    // Öffne das Popup beim Laden der Seite (kann in der Praxis störend sein)
     window.onload = openPopup;
 </script>
 
