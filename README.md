@@ -130,7 +130,7 @@
                 <p>In einem militärischen Verfassungsschema stehen die militärischen Führungskräfte über den zivilen Regierungsbeamten, und die politische Landschaft wird durch die Bedürfnisse und Prioritäten der Streitkräfte geprägt.</p>
             </div>
             <div class="image">
-                <img src="bild.jpg" alt="Militärisches Verfassungsschema">
+                <img src="Pakistan Bild 2" alt="Pakistanische Panzer">
             </div>
         </div>
     </div>
