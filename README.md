@@ -96,7 +96,46 @@
     </nav>
     <main>
             <h2>Militärisches Verfassungsschema</h2>
-        <section id="Pakistan">
+    <style>
+        #militaer-section .content {
+            display: flex;
+        }
+        #militaer-section .text {
+            flex: 1;
+        }
+        #militaer-section .image {
+            flex: 1;
+            margin-left: 20px; /* Abstand zwischen Text und Bild */
+        }
+        #militaer-section img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Militärisches Verfassungsschema</h1>
+    <div id="militaer-section">
+        <div class="content">
+            <div class="text">
+                <p>Ein militärisches Verfassungsschema ist ein politisches System, in dem die Regierung und die politische Autorität von den Streitkräften ausgeübt werden. Typischerweise gibt es einen Militärführer oder ein Gremium von Militärs, das das Land regiert, und politische Entscheidungen werden oft von den militärischen Befehlshabern getroffen.</p>
+                <h2>Merkmale eines militärischen Verfassungsschemas:</h2>
+                <ul>
+                    <li><strong>Militärdiktatur:</strong> Die Regierung wird von Militärs geführt, die oft durch einen Staatsstreich oder eine Revolution an die Macht gekommen sind.</li>
+                    <li><strong>Zentralisierte Macht:</strong> Die politische Macht liegt in den Händen des Militärs oder eines einzelnen Militärführers, der weitreichende Befugnisse hat.</li>
+                    <li><strong>Eingeschränkte politische Freiheiten:</strong> Unter einem militärischen Verfassungsschema können politische Rechte und Freiheiten stark eingeschränkt sein, da das Militär oft autoritär regiert und politische Opposition unterdrückt.</li>
+                    <li><strong>Kontrolle über Institutionen:</strong> Das Militär hat oft die Kontrolle über wichtige staatliche Institutionen wie die Exekutive, die Legislative und die Justiz.</li>
+                    <li><strong>Militärische Prioritäten:</strong> Unter einem militärischen Verfassungsschema werden politische Entscheidungen oft im Hinblick auf militärische Interessen und Sicherheitsprioritäten getroffen.</li>
+                </ul>
+                <p>In einem militärischen Verfassungsschema stehen die militärischen Führungskräfte über den zivilen Regierungsbeamten, und die politische Landschaft wird durch die Bedürfnisse und Prioritäten der Streitkräfte geprägt.</p>
+            </div>
+            <div class="image">
+                <img src="bild.jpg" alt="Militärisches Verfassungsschema">
+            </div>
+        </div>
+    </div>
+</body>
+<section id="Pakistan">
             <h2>Was hatt das mit Pakistan zu tun?</h2>
         </section>
 <section id="Infos">
