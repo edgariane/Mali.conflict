@@ -2,6 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
     <title>Popup-Fenster</title>
     <style>
         body {
@@ -83,70 +84,52 @@
 <script>
     window.onload = openPopup;
 </script>
-
 </body>
+
+---------------------------------------------------INHALT DER SEITE----------------------------------------------------------------
 <body>
     <h2>Inhalt:</h2>
     <nav>
-        <a href="#Anfang">Militärisches Verfassungsschema</a> <br>
-        <a href="#Pakistan">Was hatt das mit Pakistan zu tun?</a> <br>
-        <a href="#Infos">Infos über Pakistan</a> <br>
-        <a href="#...">...</a> <br>
-        <a href="#quellen">Quellen</a>
+        <a href="#Einführung in den Autoritarismus">Einführung in den Autoritarismus</a> <br>
+        <a href="#Merkmale des Autoritarismus">Merkmale des Autoritarismus</a> <br>
+        <a href="#Typen des Autoritarismus">Typen des Autoritarismus</a> <br>
+        <a href="#Ursachen und Faktoren des Autoritarismus">Ursachen und Faktoren des Autoritarismus</a> <br>
+        <a herf="#Auswirkungen des Autoritarismus">Auswirkungen des Autoritarismus</a>
+        <a herf="#Bekämpfung von Autoritarismus">Bekämpfung von Autoritarismus</a>
+        <a herf="#Beispiele autoritärer Regime">Beispiele autoritärer Regime</a>
+        <a herf="#Aktuelle Entwicklungen und Herausforderungen">Aktuelle Entwicklungen und Herausforderungen</a>
+        <a herf="#Quellen und weiterführende Literatur">Quellen und weiterführende Literatur</a>
+        <a herf="#FAQs zum Autoritarismus">FAQs zum Autoritarismus</a>
     </nav>
     <main>
-            <h2>Militärisches Verfassungsschema</h2>
-    <style>
-        #militaer-section .content {
-            display: flex;
-        }
-        #militaer-section .text {
-            flex: 1;
-        }
-        #militaer-section .image {
-            flex: 1;
-            margin-left: 20px; /* Abstand zwischen Text und Bild */
-        }
-        #militaer-section img {
-            max-width: 100%;
-            height: auto;
-        }
-    </style>
-</head>
-<body>
-    <h1>Militärisches Verfassungsschema</h1>
-    <div id="militaer-section">
-        <div class="content">
-            <div class="text">
-                <p>Ein militärisches Verfassungsschema ist ein politisches System, in dem die Regierung und die politische Autorität von den Streitkräften ausgeübt werden. Typischerweise gibt es einen Militärführer oder ein Gremium von Militärs, das das Land regiert, und politische Entscheidungen werden oft von den militärischen Befehlshabern getroffen.</p>
-                <h2>Merkmale eines militärischen Verfassungsschemas:</h2>
-                <ul>
-                    <li><strong>Militärdiktatur:</strong> Die Regierung wird von Militärs geführt, die oft durch einen Staatsstreich oder eine Revolution an die Macht gekommen sind.</li>
-                    <li><strong>Zentralisierte Macht:</strong> Die politische Macht liegt in den Händen des Militärs oder eines einzelnen Militärführers, der weitreichende Befugnisse hat.</li>
-                    <li><strong>Eingeschränkte politische Freiheiten:</strong> Unter einem militärischen Verfassungsschema können politische Rechte und Freiheiten stark eingeschränkt sein, da das Militär oft autoritär regiert und politische Opposition unterdrückt.</li>
-                    <li><strong>Kontrolle über Institutionen:</strong> Das Militär hat oft die Kontrolle über wichtige staatliche Institutionen wie die Exekutive, die Legislative und die Justiz.</li>
-                    <li><strong>Militärische Prioritäten:</strong> Unter einem militärischen Verfassungsschema werden politische Entscheidungen oft im Hinblick auf militärische Interessen und Sicherheitsprioritäten getroffen.</li>
-                </ul>
-                <p>In einem militärischen Verfassungsschema stehen die militärischen Führungskräfte über den zivilen Regierungsbeamten, und die politische Landschaft wird durch die Bedürfnisse und Prioritäten der Streitkräfte geprägt.</p>
-            </div>
-            <div class="image">
-                <img src="Pakistan Bild 2" alt="Pakistanische Panzer">
-            </div>
+        <div class="1anfang">
+            <h2>Autoritarismus</h2>
         </div>
-    </div>
-</body>
-<section id="Pakistan">
+<section id="Einführung in den Autoritarismus">
+</section>
+<section id="Merkmale des Autoritarismus">
+</section>
+<section id="Typen des Autoritarismus">
+</section>
+<section id="Ursachen und Faktoren des Autoritarismus">
+</section>
+<section id="Auswirkungen des Autoritarismus">
+</section>
+    
+<section id="Bekämpfung von Autoritarismus">
             <h2>Was hatt das mit Pakistan zu tun?</h2>
         </section>
-<section id="Infos">
+<section id="Beispiele autoritärer Regime">
     <h2>Infos über Pakistan</h2>
 </section>
 <section>
-<section id="...">
+<section id="Aktuelle Entwicklungen und Herausforderungen">
     <h2>...</h2>
 </section>
-<section id="quellen">
+<section id="Quellen und weiterführende Literatur">
     <h2>Quellen</h2>
+</section>
+<section id="FAQs zum Autoritarismus">
 </section>
     <footer>
         <a href="Rick Astley - Never Gonna Give You Up (Official Music Video).mp4">Quellen</a>
