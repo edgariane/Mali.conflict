@@ -3,56 +3,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
-    <title>Popup-Fenster</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-        .overlay {
-            display: none;
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background-color: rgba(128, 128, 128, 0.5); /* Grau, durchsichtig */
-            justify-content: center;
-            align-items: center;
-        }
-        .popup {
-            background-color: #fff; /* Weiß */
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Schwarzer Schatten */
-            text-align: center;
-        }
-        .popup a {
-            color: #1E90FF; /* Blau */
-            text-decoration: underline;
-            cursor: pointer;
-        }
-        .popup a:hover {
-            color: #000; /* Schwarz */
-        }
-        .popup button {
-            margin: 10px;
-            padding: 8px 15px;
-            font-size: 16px;
-            cursor: pointer;
-            border: none;
-            border-radius: 5px;
-        }
-        .popup #okButton {
-            background-color: #000; /* Schwarz */
-            color: #fff; /* Weiß */
-        }
-        .popup #cancelButton {
-            background-color: #000; /* Schwarz */
-            color: #fff; /* Weiß */
-        }
-    </style>
 </head>
 <body>
 
